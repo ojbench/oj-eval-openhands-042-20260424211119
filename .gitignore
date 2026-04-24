@@ -1,0 +1,9 @@
+CMakeFiles/
+CMakeCache.txt
+code
+my_sample.out
+EOF > .gitignore
+CMakeFiles/
+CMakeCache.txt
+code
+my_sample.out
